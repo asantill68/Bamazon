@@ -9,9 +9,9 @@ Some screenshots further exemplify how this app works.
 Initial display of the database is accomplished usind "node bamazonCustmer.js" to give the following response.
 Also, after the input of Soap and 5 the updated table is displayed.
 
-InitialCall.PNG
+https://github.com/asantill68/Bamazon/blob/master/InitialCall.PNG
 
 In addition, the app responds to in valid input (banana) to notify customer.
 Also, the customer can quit the app by entering "Q".
 
-DataVal&Quit.PNG
+https://github.com/asantill68/Bamazon/blob/master/DataVal&Quit.PNG
